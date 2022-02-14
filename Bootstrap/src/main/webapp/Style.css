@@ -1,0 +1,34 @@
+h1{
+	font-size: 70px;
+	color:blue;
+	font-family: arial;	
+	background-color: lightpink;
+}
+
+#demo{
+	font-size: 70px;
+	color:lightpink;
+	font-family: arial;	
+	
+}
+
+
+.first{
+	
+/* background-color: 	rgb(120,100,255); */
+background-color:  rgba(120,100,255,0.2);
+}
+
+.container{
+	
+	color:purple;
+	
+	
+}
+
+.col-sm-4{
+	
+	color:grey;
+	font-family: cursive;
+    background-color: cascade;
+}
